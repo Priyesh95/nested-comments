@@ -12,6 +12,3 @@ The javascript file is divided into three parts
 2. UI CONTROLLER: This controller makes any changes to the DOM and handles all UI functionalities.
 3. COMMENT CONTROLLER: This controller has all the comment prototype and also maintains the comments data structure.
 
-## Please Note
-
-The comments are being stored in Local Storage of browser instaed of any db. Due to shortage of time I could not add server side and back end implementation. If required, please let me know and I will try to implement the remaining functionalities after office hours. 
